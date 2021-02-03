@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background: linear-gradient(#e3fc31 0%, #0cc315)
+}
+
+h1 {
+    text-shadow: 2px 2px #33691E;
+    font-size: 30px;
+}
+
+img {
+    border-radius: 200%;
+    width: 300px;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+}
+ 
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+li{
+    display: inline;
+}
